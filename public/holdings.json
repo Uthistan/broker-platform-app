@@ -1,0 +1,72 @@
+[
+  {
+    "name": "HDFC Bank",
+    "quantity": 10,
+    "buyPrice": 1500,
+    "currentPrice": 160000,
+    "avgPrice": 1000
+  },
+  {
+    "name": "TCS",
+    "quantity": 5,
+    "buyPrice": 3000,
+    "currentPrice": 2950,
+    "avgPrice": 2000
+  },
+  {
+    "name": "Infosys",
+    "quantity": 8,
+    "buyPrice": 1300,
+    "currentPrice": 1380,
+    "avgPrice": 700
+  },
+  {
+    "name": "Reliance",
+    "quantity": 12,
+    "buyPrice": 2400,
+    "currentPrice": 2500,
+    "avgPrice": 2300
+  },
+  {
+    "name": "Wipro",
+    "quantity": 20,
+    "buyPrice": 1200,
+    "currentPrice": 800,
+    "avgPrice": 900
+  },
+  {
+    "name": "HCL Tech",
+    "quantity": 6,
+    "buyPrice": 1050,
+    "currentPrice": 1120,
+    "avgPrice": 1220
+  },
+  {
+    "name": "Bajaj Finance",
+    "quantity": 3,
+    "buyPrice": 7000,
+    "currentPrice": 7100,
+    "avgPrice": 1100
+  },
+  {
+    "name": "ICICI Bank",
+    "quantity": 15,
+    "buyPrice": 900,
+    "currentPrice": 890,
+    "avgPrice": 2000
+  },
+  {
+    "name": "Maruti Suzuki",
+    "quantity": 2,
+    "buyPrice": 9500,
+    "currentPrice": 9700,
+    "avgPrice": 1200
+  },
+  {
+    "name": "L&T",
+    "quantity": 4,
+    "buyPrice": 2800,
+    "currentPrice": 2800,
+    "avgPrice": 1550
+  }
+]

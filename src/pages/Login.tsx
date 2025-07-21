@@ -10,7 +10,7 @@ const BROKERS = [
 ];
 
 // Simulated backend login function
-function mockLogin(broker: string, phone: string): Promise<{ status: number }> {
+function mockLogin(_broker: string, phone: string): Promise<{ status: number }> {
   return new Promise((resolve) => {
     setTimeout(() => {
       if (phone === "500") {
